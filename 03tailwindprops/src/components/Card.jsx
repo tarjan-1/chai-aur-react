@@ -1,3 +1,4 @@
+// www.devui.io --> fro components of react and many more
 
 const Card = ({username, btnVal}) => {
     console.log(username);
