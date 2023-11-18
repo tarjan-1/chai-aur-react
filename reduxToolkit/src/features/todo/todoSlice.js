@@ -22,6 +22,7 @@ export const todoSlice = createSlice({
     }
 })
 
+// addTodo() and removeTodo() are referred to as actions
 export const { addTodo, removeTodo } = todoSlice.actions
 
 export default todoSlice.reducer
